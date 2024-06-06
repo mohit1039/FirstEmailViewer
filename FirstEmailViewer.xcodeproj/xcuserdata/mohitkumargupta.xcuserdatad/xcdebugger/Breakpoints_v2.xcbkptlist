@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "ECB3F8CA-5F50-492E-B1A3-2B1B52A853BD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27247EE5-1414-4359-BAB1-FDC5BEB0FB0B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../EmailPackage/Sources/EmailPackage/ViewModel/EmailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "fetchEmails()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "27247EE5-1414-4359-BAB1-FDC5BEB0FB0B - 9f72a45f241dd984"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for EmailPackage.EmailViewModel.fetchEmails() async -&gt; ()"
+                  moduleName = "FirstEmailViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohitkumargupta/Desktop/Project/Demo/EmailPackage/Sources/EmailPackage/ViewModel/EmailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "27247EE5-1414-4359-BAB1-FDC5BEB0FB0B - fd593d3a68fde897"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for EmailPackage.EmailViewModel.fetchEmails() async -&gt; ()"
+                  moduleName = "FirstEmailViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohitkumargupta/Desktop/Project/Demo/EmailPackage/Sources/EmailPackage/ViewModel/EmailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "27247EE5-1414-4359-BAB1-FDC5BEB0FB0B - b0a431c4be1c8386"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for EmailPackage.EmailViewModel.fetchEmails() async -&gt; ()"
+                  moduleName = "FirstEmailViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohitkumargupta/Desktop/Project/Demo/EmailPackage/Sources/EmailPackage/ViewModel/EmailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "50">
+               </Location>
+               <Location
+                  uuid = "27247EE5-1414-4359-BAB1-FDC5BEB0FB0B - bbcf7487731c2887"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for EmailPackage.EmailViewModel.fetchEmails() async -&gt; ()"
+                  moduleName = "FirstEmailViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohitkumargupta/Desktop/Project/Demo/EmailPackage/Sources/EmailPackage/ViewModel/EmailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "70">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C3085B2-09F7-460D-8BD4-F467FA5E3E39"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../EmailPackage/Sources/EmailPackage/Service/EmailService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "fetchEmails()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "664017BF-9267-4245-87FA-FA00CBFB7521"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../EmailPackage/Sources/EmailPackage/Service/EmailService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "fetchEmails()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C0C1041-EBE3-4DA3-A8C2-64E699EF61BF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../EmailPackage/Sources/EmailPackage/ViewModel/EmailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "fetchEmails()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

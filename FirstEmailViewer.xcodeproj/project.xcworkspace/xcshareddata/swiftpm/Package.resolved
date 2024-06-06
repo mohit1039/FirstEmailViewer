@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "f455c2975872ccd2d9c81594c658af65716e9b9a",
+        "version" : "5.9.1"
+      }
+    },
+    {
+      "identity" : "emailpackage",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:mohit1039/EmailPackage.git",
+      "state" : {
+        "revision" : "e2304187e26d6965c0dfdc1707a5e90aca8694f9",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
